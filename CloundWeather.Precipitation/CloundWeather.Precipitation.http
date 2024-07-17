@@ -1,0 +1,6 @@
+@CloundWeather.Precipitation_HostAddress = http://localhost:5096
+
+GET {{CloundWeather.Precipitation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

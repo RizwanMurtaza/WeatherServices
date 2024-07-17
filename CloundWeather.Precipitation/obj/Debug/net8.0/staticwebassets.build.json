@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Aaq8ZXS/bkgBdM9fl/4JbBzxKOaz9HoHLGTGxD3g3tE=",
+  "Source": "CloundWeather.Precipitation",
+  "BasePath": "_content/CloundWeather.Precipitation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
